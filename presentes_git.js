@@ -4,8 +4,7 @@ let metodoPagamento = "pix"; // default
 const pixKey = '45806084884'; // CPF
 const recebedorPix = 'AMANDA NASCIMENTO DOS SANTOS'; // nome do recebedor
 const cidadePix = 'SAO PAULO'; // cidade do recebedor
-const whatsappNoivo = '5511986332987'; // Número do WhatsApp para contato
-
+const whatsappNoivo = '5511981216216'; // Número do WhatsApp para contato
 
 // Toast/Notificação temporária
 function mostrarToast(mensagem, tipo = 'erro') {
@@ -549,4 +548,3 @@ function initFiltrosPresentes() {
     renderPresentes();
   });
 }
-
