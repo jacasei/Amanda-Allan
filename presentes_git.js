@@ -71,6 +71,11 @@ function gerarPixBRCode(valor) {
     return Number(v).toFixed(2);
   }
 
+  // trunca texto no tamanho máximo permitido pelo padrão Pix (correção de bug encotrado pela Amanda. Pix não era identificado pelo banco por conta do tamanho das strings)
+  function truncar(str, max) {
+    return String(str).substring(0, max);
+  }
+
   // CRC16-CCITT
   function crc16(payload) {
     let polinomio = 0x1021;
@@ -103,8 +108,8 @@ function gerarPixBRCode(valor) {
     '5303986' +
     tlv('54', formatValue(valor)) +
     '5802BR' +
-    tlv('59', recebedorPix) +
-    tlv('60', cidadePix) +
+    tlv('59', truncar(recebedorPix, 25)) +
+    tlv('60', truncar(cidadePix, 15)) +
     tlv('62', tlv('05', txid)) +
     '6304';
 
