@@ -284,7 +284,7 @@ const presentes = [
   { id: 22, nome: 'Depurador/Exaustor', valor: 512, imagem: './22.png', categoria: 'cozinha', linkpgm: '#', pago: false, pagoPor: ''},
   { id: 23, nome: 'Cama Box Casal', valor: 949, imagem: './23.png', categoria: 'quarto', linkpgm: '#', pago: false, pagoPor: ''},
   { id: 24, nome: 'Guarda-roupa Casal', valor: 1269, imagem: './24.png', categoria: 'moveis', linkpgm: '#', pago: false, pagoPor: ''},
-  { id: 25, nome: 'Jogo de Cama Queen', valor: 158, imagem: './25.png', categoria: 'quarto', linkpgm: '#', pago: false, pagoPor: ''},
+  { id: 25, nome: 'Jogo de Cama Queen', valor: 158, imagem: './25.png', categoria: 'quarto', linkpgm: '#', pago: true, pagoPor: 'Célia'},
   { id: 26, nome: 'Jogo de Toalhas', valor: 185, imagem: './26.png', categoria: 'casa', linkpgm: '#', pago: false, pagoPor: ''},
   { id: 27, nome: 'Kit Travesseiros ', valor: 177, imagem: './27.png', categoria: 'quarto', linkpgm: '#', pago: false, pagoPor: ''},
   { id: 28, nome: 'Kit Potes Herméticos', valor: 176, imagem: './28.png', categoria: 'casa', linkpgm: '#', pago: false, pagoPor: ''},
