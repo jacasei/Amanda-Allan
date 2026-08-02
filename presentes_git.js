@@ -333,7 +333,7 @@ const presentes = [
   { id: 71, nome: 'Kit Formas Redondas', valor: 94, imagem: './71.png', categoria: 'cozinha', linkpgm: '#', pago: false, pagoPor: ''},
   { id: 72, nome: 'Kit Vasos para Planta', valor: 148, imagem: './72.png', categoria: 'cozinha', linkpgm: '#', pago: false, pagoPor: ''},
   { id: 73, nome: 'Cortina Cozinha', valor: 60, imagem: './73.png', categoria: 'cozinha', linkpgm: '#', pago: false, pagoPor: ''},
-  { id: 74, nome: 'Jogo Americano', valor: 73, imagem: './74.png', categoria: 'cozinha', linkpgm: '#', pago: false, pagoPor: ''},
+  { id: 74, nome: 'Jogo Americano', valor: 73, imagem: './74.png', categoria: 'cozinha', linkpgm: '#', pago: true, pagoPor: 'Kayane dos Santos'},
   { id: 75, nome: 'Suporte Papel Toalha', valor: 100, imagem: './75.png', categoria: 'cozinha', linkpgm: '#', pago: false, pagoPor: ''},
   { id: 76, nome: 'Escorredor Suspenso', valor: 130, imagem: './76.png', categoria: 'cozinha', linkpgm: '#', pago: false, pagoPor: ''},
   //repetido. { id:  77, nome: 'Kit Utensílios 7 Peças', valor: 55, imagem: './77.png', categoria: 'cozinha', linkpgm: '#', pago: false, pagoPor: ''},
