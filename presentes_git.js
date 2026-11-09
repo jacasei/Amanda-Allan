@@ -366,9 +366,9 @@ const presentes = [
   { id: 104, nome: 'Maquiagem casamento 1', valor: 1000, imagem: './104.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Norma'},
   { id: 105, nome: 'Maquiagem casamento 2', valor: 800, imagem: './104.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Rosilda'}, 
   { id: 106, nome: 'PIX', valor: 500 , imagem: './106.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Gildirene'}, 
-  { id: 108, nome: 'PIX', valor: 4000 , imagem: './106.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Moiseis e Angélica'},
-  { id: 107, nome: 'Orquestra ', valor: 1700 , imagem: './107.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Fabiana'},
-  { id: 108, nome: 'PIX ', valor: 1300 , imagem: './106.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Val'}, 
+  { id: 107, nome: 'PIX', valor: 4000 , imagem: './106.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Moiseis e Angélica'},
+  { id: 108, nome: 'Orquestra ', valor: 1700 , imagem: './107.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Fabiana'},
+  { id: 109, nome: 'PIX ', valor: 1300 , imagem: './106.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Val'}, 
 ];
 
 // FILTROS - LISTA DE PRESENTES
