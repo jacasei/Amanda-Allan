@@ -369,6 +369,7 @@ const presentes = [
   { id: 107, nome: 'PIX', valor: 4000 , imagem: './106.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Moiseis e Angélica'},
   { id: 108, nome: 'Orquestra ', valor: 1700 , imagem: './107.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Fabiana'},
   { id: 109, nome: 'PIX ', valor: 1300 , imagem: './106.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Val'},
+  
 ];
 
 // FILTROS - LISTA DE PRESENTES
