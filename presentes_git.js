@@ -354,7 +354,7 @@ const presentes = [
   //repetido. { id: 92, nome: 'Jogo de Cama Queen', valor: 279, imagem: './92.png', categoria: 'quarto', linkpgm: '#', pago: false, pagoPor: ''},
   { id: 93, nome: 'Soundbar / Home Theater', valor: 369, imagem: './93.png', categoria: 'casa', linkpgm: '#', pago: false, pagoPor: ''},
   { id: 94, nome: 'Panela de Pressão', valor: 220, imagem: './94.png', categoria: 'cozinha', linkpgm: '#', pago: false, pagoPor: ''},
-  { id: 95, nome: 'Kit Potes com Trava', valor: 160, imagem: './95.png', categoria: 'cozinha', linkpgm: '#', pago: false, pagoPor: ''},
+  { id: 95, nome: 'Kit Potes com Trava', valor: 160, imagem: './95.png', categoria: 'cozinha', linkpgm: '#', pago: true, pagoPor: 'Jean Mota'},
   { id: 96, nome: 'Kit Limpeza', valor: 114, imagem: './96.png', categoria: 'limpeza', linkpgm: '#', pago: false, pagoPor: ''},
   { id: 97, nome: 'Mesa Bistrô + Banquetas', valor: 754, imagem: './97.png', categoria: 'cozinha', linkpgm: '#', pago: false, pagoPor: ''},
   { id: 98, nome: 'Vale ingresso de show', valor: 300, imagem: './98.png', categoria: 'outros', linkpgm: '#', pago: false, pagoPor: ''},
