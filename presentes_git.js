@@ -360,7 +360,7 @@ const presentes = [
   { id: 98, nome: 'Vale ingresso de show', valor: 300, imagem: './98.png', categoria: 'outros', linkpgm: '#', pago: false, pagoPor: ''},
   { id: 99, nome: 'Vale restaurante romântico', valor: 250, imagem: './99.png', categoria: 'outros', linkpgm: '#', pago: false, pagoPor: ''},
   { id: 100, nome: 'Vale dia de Spar casal', valor: 350, imagem: './100.png', categoria: 'outros', linkpgm: '#', pago: false, pagoPor: ''},
-  { id: 101, nome: 'Vale passagem aérea 1', valor: 2500, imagem: './101.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Jefferson'},
+  { id: 101, nome: 'Vale passagem aérea 1', valor: 3705, imagem: './101.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Jefferson'},
   { id: 102, nome: 'Vale passagem aérea 2', valor: 2600, imagem: './101.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Geiza e Eduardo'},
   { id: 103, nome: 'Sessão fotográfica', valor: 2500, imagem: './103.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Desuilta'},
   { id: 104, nome: 'Maquiagem casamento 1', valor: 1000, imagem: './104.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Norma'},
@@ -368,7 +368,7 @@ const presentes = [
   { id: 106, nome: 'PIX', valor: 500 , imagem: './106.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Gildirene'}, 
   { id: 107, nome: 'PIX', valor: 4000 , imagem: './106.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Moiseis e Angélica'},
   { id: 108, nome: 'Orquestra ', valor: 1700 , imagem: './107.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Fabiana'},
-  { id: 109, nome: 'PIX ', valor: 1300 , imagem: './106.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Val'}, 
+  { id: 109, nome: 'PIX ', valor: 1300 , imagem: './106.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Val'},
 ];
 
 // FILTROS - LISTA DE PRESENTES
