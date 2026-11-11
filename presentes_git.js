@@ -371,6 +371,7 @@ const presentes = [
   { id: 109, nome: 'PIX ', valor: 1300, imagem: './106.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Val'},
   { id: 110, nome: 'Carro lua de mel', valor: 2524, imagem: './106.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Carol'},
   { id: 111, nome: 'PIX ', valor: 700, imagem: './106.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Zélia'},
+  { id: 111, nome: 'PIX ', valor: 500, imagem: './106.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Gildirene'},
 ];
 
 // FILTROS - LISTA DE PRESENTES
