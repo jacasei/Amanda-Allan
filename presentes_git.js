@@ -281,7 +281,7 @@ const presentes = [
   { id: 19, nome: 'Rack + Painel para TV', valor: 500, imagem: './19.png', categoria: 'moveis', linkpgm: '#', pago: false, pagoPor: ''},
   { id: 20, nome: 'Robô Aspirador', valor: 288, imagem: './20.png', categoria: 'eletrodomesticos', linkpgm: '#', pago: false, pagoPor: ''},
   { id: 21, nome: 'Air Fryer', valor: 399, imagem: './21.png', categoria: 'cozinha', linkpgm: '#', pago: false, pagoPor: ''},
-  { id: 22, nome: 'Depurador/Exaustor', valor: 512, imagem: './22.png', categoria: 'cozinha', linkpgm: '#', pago: false, pagoPor: ''},
+  { id: 22, nome: 'Depurador/Exaustor', valor: 512, imagem: './22.png', categoria: 'cozinha', linkpgm: '#', pago: true, pagoPor: 'Fabio'},
   { id: 23, nome: 'Cama Box Casal', valor: 949, imagem: './23.png', categoria: 'quarto', linkpgm: '#', pago: false, pagoPor: ''},
   { id: 24, nome: 'Guarda-roupa Casal', valor: 1269, imagem: './24.png', categoria: 'moveis', linkpgm: '#', pago: false, pagoPor: ''},
   { id: 25, nome: 'Jogo de Cama Queen', valor: 158, imagem: './25.png', categoria: 'quarto', linkpgm: '#', pago: true, pagoPor: 'Célia Silva Cruz'},
@@ -370,8 +370,7 @@ const presentes = [
   { id: 108, nome: 'Orquestra ', valor: 1700, imagem: './107.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Fabiana'},
   { id: 109, nome: 'PIX ', valor: 1300, imagem: './106.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Val'},
   { id: 110, nome: 'Carro lua de mel', valor: 2524, imagem: './106.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Carol'},
-  { id: 111, nome: 'PIX ', valor: 700, imagem: './106.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Zélia'},
-  { id: 111, nome: 'PIX ', valor: 500, imagem: './106.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Gildirene'},
+  { id: 111, nome: 'PIX ', valor: 700, imagem: './106.png', categoria: 'outros', linkpgm: '#', pago: true, pagoPor: 'Zélia'}, 
 ];
 
 // FILTROS - LISTA DE PRESENTES
